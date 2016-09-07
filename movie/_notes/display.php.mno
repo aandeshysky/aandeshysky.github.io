@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_movie" value="name:ID;datatype:int,name:LocalName;datatype:string,name:ServName;datatype:string,name:ThumbName;datatype:string,name:FileSize;datatype:int,name:FileType;datatype:string,name:MovieName;datatype:string,name:Category;datatype:string,name:Actor;datatype:string,name:Director;datatype:string,name:Date;datatype:string,name:Time;datatype:int,name:CountryID;datatype:int,name:ID;datatype:int,name:Name;datatype:string" />
+</info>
